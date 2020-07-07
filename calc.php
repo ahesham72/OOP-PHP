@@ -27,4 +27,4 @@
 }
 $newcalc= new calc();
 $newcalc->calcluate();
-echo "<button href='<?php clac.php ?>' >back</button>";
+echo '<br><a href="form.php">Back</a>';

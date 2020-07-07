@@ -156,3 +156,4 @@ $iphonex->pressHome();
 echo "<br>";
 
 echo '<per>';print_r($iphonex);'</per>';
+
